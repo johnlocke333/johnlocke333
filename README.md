@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there! My Name is Jack Locke! 👋
 
 <!--
 **johnlocke333/johnlocke333** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
