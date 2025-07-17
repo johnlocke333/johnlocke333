@@ -2,9 +2,9 @@
 
 Aspiring Data Scientist with experience in data acquisition and data modeling, statistical analysis, machine learning, deep learning, and Tableau. With a background in medical claims/records, I possess the ability to handle multiple projects simultaneously, utilizing strong communication skills to facilitate group collaboration and presenting to a non-technical audience. I wish to enter an industry with the intention of creating new clientele while also supporting existing ones.
 
-Lover of the outdoors! Gym enthusiast! Enjoyer of all things fantasy: movie/tv/books!
+Lover of the outdoors! Gym enthusiast! Enjoyer of all things fantasy: movie/tv/books! :boom: :boom:
 
-### Projects 
+### Projects :sparkles: :star:
 ##### X-ray Image Classification - [Github Link](https://github.com/johnlocke333/xray_image_classification) 
 Forecasting whether a patient has pneumonia based on their chest x-ray images using an image classification neural network.
 
