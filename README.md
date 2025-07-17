@@ -8,11 +8,11 @@ Lover of the outdoors! Gym enthusiast! Enjoyer of all things fantasy: movie/tv/b
 ##### X-ray Image Classification - [Github Link](https://github.com/johnlocke333/xray_image_classification) 
 Forecasting whether a patient has pneumonia based on their chest x-ray images using an image classification neural network.
 
-#### Patient Hospital Length of Stay Regression - [Github Link](https://github.com/johnlocke333/patient_stay) 
+##### Patient Hospital Length of Stay Regression - [Github Link](https://github.com/johnlocke333/patient_stay) 
 Predicting a patient's length of stay to improve resource allocation and patient care.
 
-#### H1N1 Vaccine Binary Classification - [Github Link](https://github.com/johnlocke333/h1n1_flu_analysis) 
+##### H1N1 Vaccine Binary Classification - [Github Link](https://github.com/johnlocke333/h1n1_flu_analysis) 
 Determining if someone received the H1N1 vaccine based on survey data to run a binary classification model. 
 
 ### Connect with me
-[<img align="left" alt="medium" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />]
+[<img align="left" alt="medium" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />]["https://medium.com/@jackdlocke"]
