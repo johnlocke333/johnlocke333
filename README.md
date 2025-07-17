@@ -19,6 +19,5 @@ Determining if someone received the H1N1 vaccine based on survey data to run a b
 
 [<img align="left" alt="medium" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/john-l-276395142/)
 
-
 ### Skills
 Python, SQL, Data Visualization (Matplotlib, seaborn), Machine Learning (Pandas, Numpy, Scikit-Learn, Statsmodels), Deep Learning (Keras, Tensorflow), Git, Jupyter Notebook, Tableau
