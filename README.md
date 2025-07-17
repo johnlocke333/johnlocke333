@@ -19,5 +19,6 @@ Determining if someone received the H1N1 vaccine based on survey data to run a b
 
 [<img align="left" alt="medium" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/john-l-276395142/)
 
+[<img align="left" alt="medium" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](jackdlocke@gmail.com)
 
 ### Skills
