@@ -21,3 +21,4 @@ Determining if someone received the H1N1 vaccine based on survey data to run a b
 
 
 ### Skills
+Python, SQL, Data Visualization (Matplotlib, seaborn), Machine Learning (Pandas, Numpy, Scikit-Learn, Statsmodels), Deep Learning (Keras, Tensorflow), Git, Jupyter Notebook, Tableau
